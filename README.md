@@ -23,6 +23,11 @@ Our codes are based on the official imagenet example by PyTorch, pytorch-image-m
 <img src="https://github.com/ZK-Zhou/spikformer/blob/main/images/overview01.png">
 </p>
 
+### New Requirements
+spikingjelly==0.0.0.0.12
+cupy-cuda11x
+python=3.8
+
 ### Requirements
 timm==0.5.4
 
